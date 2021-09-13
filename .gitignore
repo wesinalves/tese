@@ -1,0 +1,9 @@
+*.h5
+*.hdf5
+*/models
+*.mat
+*.zip
+/keras
+/original_cGAN
+*/results
+*/raymobtime_dataset
